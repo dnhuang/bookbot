@@ -1,2 +1,2 @@
 # bookbot
-Repo for first project on boot.dev
+BookBot is my first boot.dev project.
