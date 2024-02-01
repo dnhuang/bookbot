@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first boot.dev project.
+Program that reports the letter percentage composition for online texts. 
